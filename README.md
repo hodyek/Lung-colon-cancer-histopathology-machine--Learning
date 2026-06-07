@@ -3,7 +3,7 @@
 **Author:** Odyek Henry  
 **Student ID:** 2025/HD07/26018U  
 **Institution:** Makerere University, Kampala, Uganda  
-**Course:** MSB7216 — Mschine Learning in Biomedicine 
+**Course:** MSB7216 — Machine Learning in Biomedicine 
 
 ---
 
